@@ -1,0 +1,17 @@
+head{
+    font-family: sans-serif;
+    font-size: xx-large;
+    color: black;
+}
+body{
+   font-family:monospace;
+   color:lightpink;
+   background-color: purple;
+   text-align:center;
+   font-size:xx-large;
+   
+}
+img{
+    size: 10cm;
+    border-radius: 1.67cm;
+}
